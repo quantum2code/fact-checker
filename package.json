@@ -1,0 +1,25 @@
+{
+  "name": "factchecker",
+  "version": "1.0.0",
+  "description": "simple AI based fact checker",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Gemini",
+    "Fact",
+    "fact-checker"
+  ],
+  "author": "SupriyoPurkait",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
