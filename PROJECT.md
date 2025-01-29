@@ -17,10 +17,10 @@
 
 <br>
 
-- [ ] Feature list
-  > - [ ] percentage of accuracy
-  > - [ ] emotional tone determination
-  > - [ ] reasoning
+- [x] Feature list
+  > - [x] percentage of accuracy
+  > - [x] emotional tone determination
+  > - [x] reasoning
   > - [ ] Grounding with attached links
 
 Tidy-up
